@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Ejemplo 8</TITLE>
+
 </HEAD>
 <BODY>
 <H3>Los meses de la primavera</H3>
